@@ -2,6 +2,8 @@
 
 this is my [website](https://bent101.github.io/Lab2/).
 
+![PagMan](pagman.jfif)
+
 ```
 hi(Hi hi) {
   Hi hi = new Hi();
