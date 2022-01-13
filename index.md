@@ -14,3 +14,7 @@ hi(Hi hi) {
 # hi
 ## hi
 ### hello
+
+[Lab Report 1](index.md)
+[Lab Report 1](https://bent101.github.io/Lab2/index.html)
+
