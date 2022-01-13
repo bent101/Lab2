@@ -1,16 +1,11 @@
-hello world
+**hello world**. i am ben tomlin and i like *dog*.
 
-ben tomlin
+this is my [website](https://bent101.github.io/Lab2/).
 
-dog
-
-*italic*
-
-**bold**
-
-[link](https://bent101.github.io/Lab2/)
-
-`code`
+`hi(Hi hi) {
+  Hi hi = new Hi();
+  hi(hi);
+ }`
 
 # hi
 ## hi
